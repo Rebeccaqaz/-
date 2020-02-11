@@ -1,2 +1,2 @@
 # -
-有例如学生成绩查询和信息查询等多种功能，是用C#和SQL做出来的
+这是一个采用B/S模式，采用node.js服务器语言，使用Express作为web开发框架，前端设计模式使用HTML和CSS还有javascript语言制作静态页面通过浏览器显示且同时采用JQuery框架和bootstrap框架进行界面布局，使用基于分布式文件存储的mongDB数据库，并且使用很多第三方模块（中间件）比如：bodyParser（解析post请求数据），cookies（读/写cookies），swig（模板引擎解析），markdown（markdown语法解析生成模块）；接着,本文对系统的需求和可行性进行分析,然后按照需求分析进行系统的设计和数据库的设计实现的个人简易博客开发系统
